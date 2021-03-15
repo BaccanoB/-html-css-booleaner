@@ -48,6 +48,10 @@ h1 {
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 
 thead {
      color: white;
