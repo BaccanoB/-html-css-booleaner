@@ -44,7 +44,7 @@ h1 {
     margin-top: 0;
 }
 
-#highlighted {
+.highlighted {
     background-color: yellow;
 }
  
@@ -69,3 +69,26 @@ h1 {
      background-color: rgb(118, 203, 218);
 }
 
+h5 {
+    color: rgb(114, 107, 107);
+}
+
+.image {
+    width: 200px;
+    height: 180px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+#first-image {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+#second-image {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
