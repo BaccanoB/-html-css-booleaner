@@ -15,10 +15,22 @@ h1 {
 header {
     background-image: url(../img/pattern.png);
     background-color: rgb(34, 140, 211);
-    background-size: cover;
-    height: 70px;
+    background-size: initial;
+    height: 160px;
+    width: 1500;
 }
 
 #logo {
-    height: 50px;
+    height: 60px;
+    position: absolute;
+    bottom:10%;
+    
+
+    
+   
+}
+
+#logo-container {
+    height: 160px;
+    position: relative;
 }
