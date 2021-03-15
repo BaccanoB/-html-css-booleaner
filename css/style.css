@@ -48,4 +48,24 @@ h1 {
     background-color: yellow;
 }
  
+#head {
+    background-color: rgb(23, 154, 241);
+    color: white;
+   
+}
+
+#table {
+    margin-right: 90px;
+    text-align: right;
+}
+
+
+.line {
+    height: 50px;
+    padding-top: 10px;
+}
+
+.blu-line {
+     background-color: rgb(118, 203, 218);
+}
 
