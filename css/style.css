@@ -47,27 +47,21 @@ h1 {
 .highlighted {
     background-color: yellow;
 }
- 
-#head {
-    background-color: rgb(23, 154, 241);
-    color: white;
-   
-}
-
-#table {
-    margin-right: 90px;
-    text-align: right;
-}
 
 
-.line {
-    height: 50px;
-    padding-top: 10px;
+thead {
+     color: white;
+     background-color: rgb(49, 137, 236); 
 }
 
-.blu-line {
-     background-color: rgb(118, 203, 218);
+.blu-row {
+    background-color: rgb(97, 182, 197);
 }
+
+.bar {
+    width: 150px;
+}
+
 
 h5 {
     color: rgb(114, 107, 107);
@@ -76,10 +70,12 @@ h5 {
 .image {
     width: 200px;
     height: 180px;
-    margin-top: 5px;
+    padding-top: 10px;
+    padding-left: 5px;
     font-size: 20px;
     font-weight: bold;
     color: white;
+    margin-top: 5px;
     
 }
 
@@ -92,3 +88,4 @@ h5 {
     background-image: url(../img/graph.jpg);
     background-size: cover;
 }
+
